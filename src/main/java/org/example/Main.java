@@ -7,7 +7,7 @@ public class Main {
         public static void main (String[] args) {
             Estudiante est= new Estudiante();
             est.setNombre("andrea");
-            est.setEdad("18");
+            est.setEdad(18);
             System.out.println(est);
         }
 
